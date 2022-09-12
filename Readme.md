@@ -2,8 +2,9 @@
 
 * **RMI [Remote Method Invocation]**
 
- Mechanism that allows object residing in one jvm to be accessed/invoked by an object residing in another jvm.  [Read More](https://www.tutorialspoint.com/java_rmi/java_rmi_introduction.htm)
+ RMI is a mechanism that allows object residing in one jvm to be accessed/invoked by an object residing in another jvm.  [Read More](https://www.tutorialspoint.com/java_rmi/java_rmi_introduction.htm)
 
+*Much of the RMI APIs appears to be deprecated. **Need to check whether and how it's used in mordern times***
 
 * [**Telusko Video Tutorials PlayList**](https://www.youtube.com/playlist?list=PLGwb7xZHg-oMR0e6TSHKbc2SKOn_HJ-DR)
 
